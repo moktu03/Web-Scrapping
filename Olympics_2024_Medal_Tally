@@ -1,0 +1,206 @@
+,Rank,Country,Gold,Silver,Bronze,Total Medals
+0,1,United States,40,44,42,126
+1,2,China,40,27,24,91
+2,3,Japan,20,12,13,45
+3,4,Australia,18,19,16,53
+4,5,France,16,26,22,64
+5,6,Netherlands,15,7,12,34
+6,7,Great Britain,14,22,29,65
+7,8,South Korea,13,9,10,32
+8,9,Italy,12,13,15,40
+9,10,Germany,12,13,8,33
+10,11,New Zealand,10,7,3,20
+11,12,Canada,9,7,11,27
+12,13,Uzbekistan,8,2,3,13
+13,14,Hungary,6,7,6,19
+14,15,Spain,5,4,9,18
+15,16,Sweden,4,4,3,11
+16,17,Kenya,4,2,5,11
+17,18,Norway,4,1,3,8
+18,19,Ireland,4,0,3,7
+19,20,Brazil,3,7,10,20
+20,21,Iran,3,6,3,12
+21,22,Ukraine,3,5,4,12
+22,23,Romania,3,4,2,9
+23,24,Georgia,3,3,1,7
+24,25,Belgium,3,1,6,10
+25,26,Bulgaria,3,1,3,7
+26,27,Serbia,3,1,1,5
+27,28,Czech Republic,3,0,2,5
+28,29,Denmark,2,2,5,9
+29,30,Azerbaijan,2,2,3,7
+30,30,Croatia,2,2,3,7
+31,32,Cuba,2,1,6,9
+32,33,Bahrain,2,1,1,4
+33,34,Slovenia,2,1,0,3
+34,35,Chinese Taipei,2,0,5,7
+35,36,Austria,2,0,3,5
+36,37,Hong Kong,2,0,2,4
+37,37,Philippines,2,0,2,4
+38,39,Algeria,2,0,1,3
+39,39,Indonesia,2,0,1,3
+40,41,Israel,1,5,1,7
+41,42,Poland,1,4,5,10
+42,43,Kazakhstan,1,3,3,7
+43,44,Jamaica,1,3,2,6
+44,44,South Africa,1,3,2,6
+45,44,Thailand,1,3,2,6
+46,47,Ethiopia,1,3,0,4
+47,48,Switzerland,1,2,5,8
+48,49,Ecuador,1,2,2,5
+49,50,Portugal,1,2,1,4
+50,51,Greece,1,1,6,8
+51,52,Argentina,1,1,1,3
+52,52,Egypt,1,1,1,3
+53,52,Tunisia,1,1,1,3
+54,55,Botswana,1,1,0,2
+55,55,Chile,1,1,0,2
+56,55,St Lucia,1,1,0,2
+57,55,Uganda,1,1,0,2
+58,59,Dominican Republic,1,0,2,3
+59,60,Guatemala,1,0,1,2
+60,60,Morocco,1,0,1,2
+61,62,Dominica,1,0,0,1
+62,62,Pakistan,1,0,0,1
+63,64,Turkey,0,3,5,8
+64,65,Mexico,0,3,2,5
+65,66,Armenia,0,3,1,4
+66,66,Colombia,0,3,1,4
+67,68,North Korea,0,2,4,6
+68,68,Kyrgyzstan,0,2,4,6
+69,70,Lithuania,0,2,2,4
+70,71,India,0,1,5,6
+71,72,Moldova,0,1,3,4
+72,73,Kosovo,0,1,1,2
+73,74,Cyprus,0,1,0,1
+74,74,Fiji,0,1,0,1
+75,74,Jordan,0,1,0,1
+76,74,Mongolia,0,1,0,1
+77,74,Panama,0,1,0,1
+78,79,Tajikistan,0,0,3,3
+79,80,Albania,0,0,2,2
+80,80,Grenada,0,0,2,2
+81,80,Malaysia,0,0,2,2
+82,80,Puerto Rico,0,0,2,2
+83,84,Cape Verde,0,0,1,1
+84,84,Ivory Coast,0,0,1,1
+85,84,Refugee Olympic Team,0,0,1,1
+86,84,Peru,0,0,1,1
+87,84,Qatar,0,0,1,1
+88,84,Singapore,0,0,1,1
+89,84,Slovakia,0,0,1,1
+90,84,Zambia,0,0,1,1
+91,92,Afghanistan,0,0,0,0
+92,92,American Samoa,0,0,0,0
+93,92,Andorra,0,0,0,0
+94,92,Angola,0,0,0,0
+95,92,Antigua and Barbuda,0,0,0,0
+96,92,Aruba,0,0,0,0
+97,92,Bahamas,0,0,0,0
+98,92,Bangladesh,0,0,0,0
+99,92,Barbados,0,0,0,0
+100,92,Belize,0,0,0,0
+101,92,Benin,0,0,0,0
+102,92,Bermuda,0,0,0,0
+103,92,Bhutan,0,0,0,0
+104,92,Bolivia,0,0,0,0
+105,92,Bosnia-Herzegovina,0,0,0,0
+106,92,Brunei,0,0,0,0
+107,92,Burkina Faso,0,0,0,0
+108,92,Burundi,0,0,0,0
+109,92,Cambodia,0,0,0,0
+110,92,Cameroon,0,0,0,0
+111,92,Cayman Islands,0,0,0,0
+112,92,Central African Republic,0,0,0,0
+113,92,Chad,0,0,0,0
+114,92,Comoros,0,0,0,0
+115,92,Congo,0,0,0,0
+116,92,Cook Islands,0,0,0,0
+117,92,Costa Rica,0,0,0,0
+118,92,Djibouti,0,0,0,0
+119,92,DR Congo,0,0,0,0
+120,92,El Salvador,0,0,0,0
+121,92,Equatorial Guinea,0,0,0,0
+122,92,Eritrea,0,0,0,0
+123,92,Estonia,0,0,0,0
+124,92,Eswatini,0,0,0,0
+125,92,Finland,0,0,0,0
+126,92,Gabon,0,0,0,0
+127,92,Gambia,0,0,0,0
+128,92,Ghana,0,0,0,0
+129,92,Guam,0,0,0,0
+130,92,Guinea,0,0,0,0
+131,92,Guinea-Bissau,0,0,0,0
+132,92,Guyana,0,0,0,0
+133,92,Haiti,0,0,0,0
+134,92,Honduras,0,0,0,0
+135,92,Iceland,0,0,0,0
+136,92,Iraq,0,0,0,0
+137,92,Kiribati,0,0,0,0
+138,92,Kuwait,0,0,0,0
+139,92,Laos,0,0,0,0
+140,92,Latvia,0,0,0,0
+141,92,Lebanon,0,0,0,0
+142,92,Lesotho,0,0,0,0
+143,92,Liberia,0,0,0,0
+144,92,Libya,0,0,0,0
+145,92,Liechtenstein,0,0,0,0
+146,92,Luxembourg,0,0,0,0
+147,92,Madagascar,0,0,0,0
+148,92,Malawi,0,0,0,0
+149,92,Maldives,0,0,0,0
+150,92,Mali,0,0,0,0
+151,92,Malta,0,0,0,0
+152,92,Marshall Islands,0,0,0,0
+153,92,Mauritania,0,0,0,0
+154,92,Mauritius,0,0,0,0
+155,92,Micronesia,0,0,0,0
+156,92,Monaco,0,0,0,0
+157,92,Montenegro,0,0,0,0
+158,92,Mozambique,0,0,0,0
+159,92,Myanmar,0,0,0,0
+160,92,Namibia,0,0,0,0
+161,92,Nauru,0,0,0,0
+162,92,Nepal,0,0,0,0
+163,92,Nicaragua,0,0,0,0
+164,92,Niger,0,0,0,0
+165,92,Nigeria,0,0,0,0
+166,92,North Macedonia,0,0,0,0
+167,92,Oman,0,0,0,0
+168,92,Palau,0,0,0,0
+169,92,Palestine,0,0,0,0
+170,92,Papua New Guinea,0,0,0,0
+171,92,Paraguay,0,0,0,0
+172,92,Rwanda,0,0,0,0
+173,92,Samoa,0,0,0,0
+174,92,San Marino,0,0,0,0
+175,92,Sao Tome and Principe,0,0,0,0
+176,92,Saudi Arabia,0,0,0,0
+177,92,Senegal,0,0,0,0
+178,92,Seychelles,0,0,0,0
+179,92,Sierra Leone,0,0,0,0
+180,92,Solomon Islands,0,0,0,0
+181,92,Somalia,0,0,0,0
+182,92,South Sudan,0,0,0,0
+183,92,Sri Lanka,0,0,0,0
+184,92,St Kitts and Nevis,0,0,0,0
+185,92,St Vincent and the Grenadines,0,0,0,0
+186,92,Sudan,0,0,0,0
+187,92,Suriname,0,0,0,0
+188,92,Syria,0,0,0,0
+189,92,Tanzania,0,0,0,0
+190,92,East Timor,0,0,0,0
+191,92,Togo,0,0,0,0
+192,92,Tonga,0,0,0,0
+193,92,Trinidad and Tobago,0,0,0,0
+194,92,Turkmenistan,0,0,0,0
+195,92,Tuvalu,0,0,0,0
+196,92,United Arab Emirates,0,0,0,0
+197,92,Uruguay,0,0,0,0
+198,92,Vanuatu,0,0,0,0
+199,92,Venezuela,0,0,0,0
+200,92,Vietnam,0,0,0,0
+201,92,British Virgin Islands,0,0,0,0
+202,92,American Virgin Islands,0,0,0,0
+203,92,Yemen,0,0,0,0
+204,92,Zimbabwe,0,0,0,0
